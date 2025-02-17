@@ -20,8 +20,8 @@ CREATE TABLE IF NOT EXISTS toronto_bike_stations (
     is_installed INTEGER,
     is_renting INTEGER,
     is_returning INTEGER,
-	last_reported TIMESTAMP,
+    last_reported TIMESTAMP,
     is_charging_station INTEGER,
     status TEXT,
-	last_update TIMESTAMP
+    last_update TIMESTAMP
 );
