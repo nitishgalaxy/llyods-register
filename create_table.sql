@@ -14,7 +14,7 @@ CREATE TABLE IF NOT EXISTS toronto_bike_stations (
     num_bikes_available INTEGER,
     mechanical_bikes_available INTEGER,
     electric_bikes_available INTEGER,
-	num_bikes_disabled INTEGER,
+    num_bikes_disabled INTEGER,
     num_docks_available INTEGER,
     num_docks_disabled INTEGER,
     is_installed INTEGER,
